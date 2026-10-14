@@ -23,7 +23,7 @@
     "61591895887142"
   ],
   "adminBot": [
-    "61591895887142"
+    "61584515438334"
   ],
   "premium": [
     "61591895887142"
@@ -54,7 +54,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ᴏʀᴏᴠᴏʟᴀ-ɪᴀ",
+  "nickNameBot": "Angela bot nouvelle version",
   "prefix": "+",
   "noPrefix": true,
   "database": {
