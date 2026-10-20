@@ -17,13 +17,13 @@
     "ignoreCommand": []
   },
   "creator": [
-    "61591895887142"
+    "100080077652459"
   ],
   "developer": [
     "61591895887142"
   ],
   "adminBot": [
-    "61584515438334"
+    "100080077652459"
   ],
   "premium": [
     "61591895887142"
@@ -54,7 +54,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Angela bot nouvelle version",
+  "nickNameBot": "乂❤𝐻𝑖𝑛𝑎𝑡𝑎 𝑏𝑜𝑡 𝑎𝑘𝑠❤乂",
   "prefix": "+",
   "noPrefix": true,
   "database": {
